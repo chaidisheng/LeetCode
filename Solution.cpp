@@ -145,3 +145,43 @@ bool Solution::isPalindrome(int x) {
     }
     return false;
 }
+
+int Solution::isMatch(string, string) {
+    return 0;
+}
+
+int Solution::maxArea(vector<int> &) {
+    return 0;
+}
+
+string Solution::intTORoman(int) {
+    return std::string();
+}
+
+string Solution::longCommonPrefix(vector<string> &) {
+    return std::string();
+}
+
+vector<vector<int>> Solution::threeSum(vector<int> &, int) {
+    return vector<vector<int>>();
+}
+
+int Solution::threeSunClosest(vector<int> &, int) {
+    return 0;
+}
+
+vector<string> Solution::letterCombinations(string) {
+    return vector<string>();
+}
+
+vector<vector<int>> Solution::fourSum(vector<int> &, int) {
+    return vector<vector<int>>();
+}
+
+ListNode *Solution::removeNthFromEnd(ListNode *, int) {
+    return nullptr;
+}
+
+bool Solution::isValid(string) {
+    return false;
+}

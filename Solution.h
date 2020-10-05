@@ -6,6 +6,8 @@
 #define LEETCODE_SOLUTION_H
 #include<vector>
 #include <unordered_map>
+#include<climits>
+#include <cmath>
 using namespace std;
 
 struct ListNode {
@@ -27,6 +29,18 @@ public:
     int reverse(int);
     int myAtoi(string);
     bool isPalindrome(int);
+    int isMatch(string, string);
+    int maxArea(vector<int>&);
+    string intTORoman(int);
+    string longCommonPrefix(vector<string>&);
+    vector<vector<int>> threeSum(vector<int>&, int);
+    int threeSunClosest(vector<int>&, int);
+    vector<string> letterCombinations(string);
+    vector<vector<int>> fourSum(vector<int>&, int);
+    ListNode* removeNthFromEnd(ListNode*, int);
+    bool isValid(string);
+
+
 
 };
 

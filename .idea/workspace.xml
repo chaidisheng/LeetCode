@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="LeetCode" targetName="LeetCode" />
@@ -11,19 +29,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4154af8-4cdc-4ece-bc69-bd9ae12df512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="d4154af8-4cdc-4ece-bc69-bd9ae12df512" name="Default Changelist" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution.h" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +45,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -51,22 +62,41 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="GDB Remote Debug.10.30.3.141">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10.30.3.141" type="CLion_Remote" remoteCommand="tcp:10.30.3.141:9999" symbolFile="" sysroot="">
+      <pathMapping remote=":/home/omnisky/chaidisheng/LeetCode" local="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="LeetCode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LeetCode" TARGET_NAME="LeetCode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LeetCode" RUN_TARGET_NAME="LeetCode">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.LeetCode" />
+      <item itemvalue="GDB Remote Debug.10.30.3.141" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,18 +110,50 @@
       <workItem from="1601435400681" duration="7067000" />
       <workItem from="1601455398704" duration="15944000" />
       <workItem from="1601746341584" duration="5810000" />
-      <workItem from="1601859053747" duration="2251000" />
+      <workItem from="1601859053747" duration="4990000" />
+      <workItem from="1601883386784" duration="8198000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1601863267342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601863267342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601455649863">
+    <state x="275" y="22" key="#Deployment" timestamp="1601898977076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601455649863" />
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1601898977076" />
+    <state x="259" y="9" key="#SSH_Configurations" timestamp="1601898921058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="259" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1601898921058" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601902676795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601902676795" />
     <state x="554" y="261" width="257" height="280" key="Github.ShareDialog" timestamp="1601862313673">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -100,49 +162,57 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="465" y="61" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601862193058" />
-    <state width="1323" height="85" key="GridCell.Tab.0.bottom" timestamp="1601795707728">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="85" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601795707728" />
-    <state width="1323" height="85" key="GridCell.Tab.0.center" timestamp="1601795707727">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="85" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601795707727" />
-    <state width="1323" height="85" key="GridCell.Tab.0.left" timestamp="1601795707727">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1601902926541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="85" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601795707727" />
-    <state width="1323" height="85" key="GridCell.Tab.0.right" timestamp="1601795707728">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601902926541" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="85" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601795707728" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1601774660426">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601774660426" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1601774660426">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601774660426" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1601774660426">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601774660426" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1601774660426">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1601902926542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601774660426" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601902926542" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1601861697092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601861697092" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601862985743">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601863280484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601862985743" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601863280484" />
+    <state x="561" y="94" key="ftp.server.browser" timestamp="1601898974843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="94" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1601898974843" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601471597428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601471597428" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1601904006893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601904006893" />
   </component>
 </project>
