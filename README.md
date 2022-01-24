@@ -1,3 +1,1 @@
 # LeetCode
-first version
-
