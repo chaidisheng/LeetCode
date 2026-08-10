@@ -45,3 +45,6 @@ Module::Load::Conditional,0.72,https://metacpan.org/release/Module-Load-Conditio
 Module::Load::Conditional,0.74,https://metacpan.org/release/Module-Load-Conditional
 
 # End of sub-batch 3 (20 rows). Some entries point to project root or package index when a per-version release page was not available; such lines are marked for later review if needed.
+
+# Sub-batch 4 started: processing next set of rows. I will replace this placeholder with resolved Component,Version,URL rows after finishing sub-batch 4.
+PROCESSING,Batch3 sub-batch 4 started,2026-08-10T11:50:00Z
