@@ -46,5 +46,30 @@ Module::Load::Conditional,0.74,https://metacpan.org/release/Module-Load-Conditio
 
 # End of sub-batch 3 (20 rows). Some entries point to project root or package index when a per-version release page was not available; such lines are marked for later review if needed.
 
-# Sub-batch 4 started: processing next set of rows. I will replace this placeholder with resolved Component,Version,URL rows after finishing sub-batch 4.
-PROCESSING,Batch3 sub-batch 4 started,2026-08-10T11:50:00Z
+# Sub-batch 4 resolved entries (next 22 rows)
+IO::Socket::SSL,2.068,https://metacpan.org/release/IO-Socket-SSL
+libsecret-common,,https://gitlab.gnome.org/GNOME/libsecret
+GNU MPFR,4.1.0,https://www.mpfr.org/
+GNU MPFR,,https://www.mpfr.org/
+python3-rgw,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+libcephfs-dev,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+tpm2-software,,https://github.com/tpm2-software
+cpuguy83-go-md2man,,https://github.com/cpuguy83/go-md2man
+perl-devel,5.18.4,https://www.perl.org/
+Berkeley DB,5.3.28,https://www.oracle.com/database/technologies/related/berkeleydb.html
+The PCI Utilities,3.6.4,https://github.com/pciutils/pciutils/releases/tag/v3.6.4
+The PCI Utilities,3.8.0,https://github.com/pciutils/pciutils/releases/tag/v3.8.0
+The PCI Utilities,,https://github.com/pciutils/pciutils
+Carp,1.5,https://metacpan.org/release/Carp
+kmod-libs,27,https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git
+kmod-libs,29-8.oe2203sp4/aarch64,https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git
+kmod-libs,29-8.oe2203sp4/x86.64,https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git
+hostname,3.21,https://git.savannah.gnu.org/cgit/hostname.git
+hostname,3.23,https://git.savannah.gnu.org/cgit/hostname.git
+Shadow Tool Suite,20000902,https://savannah.nongnu.org/projects/shadow
+Shadow Tool Suite,,https://savannah.nongnu.org/projects/shadow
+
+# End of sub-batch 4 (22 rows). Some rows point to project roots where no per-version release page was found; these are marked for review as needed.
+
+# Sub-batch 5 started: processing next set of rows. I will replace this placeholder with resolved Component,Version,URL rows after finishing sub-batch 5.
+PROCESSING,Batch3 sub-batch 5 started,2026-08-10T11:55:00Z
