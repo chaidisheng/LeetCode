@@ -11,6 +11,12 @@ libfdisk,2.35.2,https://github.com/util-linux/util-linux/tree/v2.35.2
 libfdisk,2.37.2,https://github.com/util-linux/util-linux/tree/v2.37.2
 libfdisk,,https://github.com/util-linux/util-linux
 crypto-policies,20200619-1.git781bbd4.ky10/noarch,https://gitlab.com/redhat-crypto/fedora-crypto-policies
+kylin-gpg-keys,1,https://www.kylinos.cn/
+GNU troff,1.22.4,https://www.gnu.org/software/groff/
+PyYAML,5.3.1,https://pypi.org/project/PyYAML/5.3.1/
+PyYAML,6,https://pypi.org/project/PyYAML/6.0/
+PyYAML,6.0.1,https://pypi.org/project/PyYAML/6.0.1/
+PyYAML,,https://pypi.org/project/PyYAML/
 
-# Note: This file is being populated in sub-batches. Rows above are from sub-batch 1 (first 12 resolved entries).
+# Note: This file is being populated in sub-batches. Rows above are from sub-batch 1 and sub-batch 2 (18 resolved entries).
 # Rule: prefer official website or official package source; if unavailable, use GitHub. For GitHub-hosted projects with releases/tags, per-version release/tag links are used.
