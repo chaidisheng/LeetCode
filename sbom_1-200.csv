@@ -1,0 +1,236 @@
+开源组件名称,开源组件版本,开源官方github地址,校验结果,备注
+ceph,16.2.10,https://github.com/ceph/ceph,Exists,ceph 仓库包含 ceph-osd/mon 等组件（tag v16.2.10 可在 releases 找到）
+ceph-osd,16.2.10,https://github.com/ceph/ceph,Exists,ceph-osd 为 ceph 仓库内组件
+ASN.1 library for Python,0.3.7,https://github.com/etingof/pyasn1,Exists,pyasn1 releases 含 0.3.7
+ASN.1 library for Python,0.4.8,https://github.com/etingof/pyasn1,Exists,pyasn1 releases 含 0.4.8
+more-itertools,10.8.0,https://github.com/more-itertools/more-itertools,Exists,
+more-itertools,9.1.0,https://github.com/more-itertools/more-itertools,Exists,
+libnfnetlink,1.0.1,https://git.netfilter.org/libnfnetlink/,Upstream-not-GitHub,官方上游在 netfilter.org；GitHub 多为镜像
+libnfnetlink,,https://git.netfilter.org/libnfnetlink/,Upstream-not-GitHub,同上
+elfutils-extra,0.18,https://sourceware.org/git/?p=elfutils.git,Upstream-not-GitHub,未见独立 elfutils-extra 官方 GitHub，elfutils 上游在 sourceware
+Heimdal Kerberos,,https://github.com/heimdal/heimdal,Exists,
+filesystem,3.14,https://github.com/PyFilesystem/pyfilesystem2,Exists,假定为 PyFilesystem (pyfilesystem2)
+filesystem,3.16,https://github.com/PyFilesystem/pyfilesystem2,Exists,假定为 PyFilesystem (pyfilesystem2)
+python-lz4,1.9.2,https://github.com/python-lz4/python-lz4,Exists,
+python-lz4,1.9.3,https://github.com/python-lz4/python-lz4,Exists,
+ostree,2020.4,https://github.com/ostreedev/ostree,Exists,
+libtirpc,1.2.6,https://github.com/thkukuk/libtirpc,Exists,
+libtirpc,1.3.2,https://github.com/thkukuk/libtirpc,Exists,
+libtirpc,,https://github.com/thkukuk/libtirpc,Exists,
+GNU Binutils,2.34,https://sourceware.org/git/binutils-gdb.git,Upstream-not-GitHub,官方上游在 sourceware/git；GitHub 有镜像
+GNU Binutils,2.37,https://sourceware.org/git/binutils-gdb.git,Upstream-not-GitHub,同上
+chkconfig,1.14,https://github.com/rpm-software-management/chkconfig,Exists,
+chkconfig,1.21,https://github.com/rpm-software-management/chkconfig,Exists,
+cracklib,2.9.0,https://savannah.gnu.org/git/cracklib.git,Upstream-not-GitHub,官方在 Savannah/GNU；无统一官方 GitHub
+cracklib,2.9.8,https://savannah.gnu.org/git/cracklib.git,Upstream-not-GitHub,同上
+OpenPrinting/cups,1.7.5,https://github.com/OpenPrinting/cups,Exists,OpenPrinting 的 CUPS 镜像
+python3-rados,16.2.10,https://github.com/ceph/ceph,Exists,属于 ceph 项目绑定
+asn1crypto,1.4.0,https://github.com/wbond/asn1crypto,Exists,
+asn1crypto,1.5.1,https://github.com/wbond/asn1crypto,Exists,
+p11-kit-trust,0.23.20,https://github.com/p11-glue/p11-kit,Exists,p11-kit 项目（trust 为其模块/功能）
+RocksDB,,https://github.com/facebook/rocksdb,Exists,
+efi-filesystem,4-4.p01.ky10/noarch,,Unknown,看起来为发行版打包名，未找到上游 GitHub
+XFS Filesystem,5.6.0,https://github.com/tytso/xfsprogs,Exists,xfsprogs 上游常见镜像；上游也托管在 kernel/git 通道
+Filter,1.54,,Unknown,项目名模糊，需提供更多上下文
+which,2.21,,Unknown,“which” 在不同环境/发行版实现不同；无唯一官方 GitHub
+mailcap,2.1.53,,Unknown,需确认具体实现（多个实现/打包）
+avahi,0.8,https://github.com/lathiat/avahi,Exists,
+avahi,,https://github.com/lathiat/avahi,Exists,
+Linux DiskQuota,4.05,,Unknown,发行版工具/内核模块或独立项目需确认上游
+Linux DiskQuota,4.06,,Unknown,同上
+crontabs,1.11,,Unknown,包名模糊（可能为 distro 包）；需确认来源
+Term Cap,1.17,,Unknown,termcap 实现多在 ncurses，需确认
+Term Cap,1.18,,Unknown,同上
+zip,3,https://infozip.sourceforge.io/,Upstream-not-GitHub,Info-ZIP 官方在 SourceForge；有 GitHub 镜像
+pyca/pynacl,1.2.1,https://github.com/pyca/pynacl,Exists,
+pyca/pynacl,1.5.0,https://github.com/pyca/pynacl,Exists,
+perl-Digest-SHA,5.93,https://metacpan.org/release/Digest-SHA,Upstream-not-GitHub,Perl 模块以 CPAN/MetaCPAN 为权威
+libp11,0.4.10,https://github.com/OpenSC/libp11,Exists,
+libp11,,https://github.com/OpenSC/libp11,Exists,
+libnftnl-libs,1.1.7,https://git.netfilter.org/libnftnl/,Upstream-not-GitHub,netfilter 上游；GitHub 通常为镜像
+libnftnl-libs,1.2.0,https://git.netfilter.org/libnftnl/,Upstream-not-GitHub,同上
+libnftnl-libs,,https://git.netfilter.org/libnftnl/,Upstream-not-GitHub,
+mailx,12.5,,Unknown,mailx 有多个实现（bsd-mailx/heirloom 等），需确认发行版来源
+perl-CPAN-Meta-YAML,0.018,https://metacpan.org/release/CPAN-Meta-YAML,Upstream-not-GitHub,CPAN/MetaCPAN 为权威
+GLib,2.3.2,https://gitlab.gnome.org/GNOME/glib,Upstream-not-GitHub,GNOME 上游在 GitLab
+GLib,2.3.3,https://gitlab.gnome.org/GNOME/glib,Upstream-not-GitHub,同上
+GLib,2.66.8,https://gitlab.gnome.org/GNOME/glib,Upstream-not-GitHub,同上
+GLib,2.72.2,https://gitlab.gnome.org/GNOME/glib,Upstream-not-GitHub,同上
+GLib,,https://gitlab.gnome.org/GNOME/glib,Upstream-not-GitHub,
+libnghttp2,1.41.0,https://github.com/nghttp2/nghttp2,Exists,
+libnghttp2,1.46.0,https://github.com/nghttp2/nghttp2,Exists,
+colorama,0.4.4,https://github.com/tartley/colorama,Exists,
+libxml2,1.1.37,https://gitlab.gnome.org/GNOME/libxml2,Upstream-not-GitHub,libxml2 上游在 GNOME/gitlab（xmlsoft）
+libxml2,2.9.10,https://gitlab.gnome.org/GNOME/libxml2,Upstream-not-GitHub,
+libxml2,2.9.14,https://gitlab.gnome.org/GNOME/libxml2,Upstream-not-GitHub,
+libxml2,,https://gitlab.gnome.org/GNOME/libxml2,Upstream-not-GitHub,
+lttng-ust,2.10.1,https://github.com/lttng/lttng-ust,Exists,
+ceph-mon,16.2.10,https://github.com/ceph/ceph,Exists,ceph 仓库内组件
+py-lmdb,0.9.24,https://github.com/jnwatson/py-lmdb,Exists,
+libXau,1.0.10,https://gitlab.freedesktop.org/xorg/lib/libXau,Upstream-not-GitHub,freedesktop/X.Org 上游
+libXau,,https://gitlab.freedesktop.org/xorg/lib/libXau,Upstream-not-GitHub,
+Pod::Escapes,1.04,https://metacpan.org/release/Pod-Escapes,Upstream-not-GitHub,CPAN/MetaCPAN
+chardet,3.0.4,https://github.com/chardet/chardet,Exists,
+chardet,5.0.0,https://github.com/chardet/chardet,Exists,
+chardet,5.1.0,https://github.com/chardet/chardet,Exists,
+chardet,5.2.0,https://github.com/chardet/chardet,Exists,
+Python tzdata,2021e-1.p04.ky10/noarch,https://github.com/python/tzdata,Exists,python/tzdata 仓库
+python-ipy,1,https://github.com/ipython/ipython,Exists,条目疑为 IPython；如非请指明
+python-ipy,1.01,https://github.com/ipython/ipython,Exists,同上
+python3-pytz,2020.1,https://github.com/stub42/pytz,Exists,
+PyTZ - Python Time Zone Library,2021.3,https://github.com/stub42/pytz,Exists,
+PyTZ - Python Time Zone Library,2023.3,https://github.com/stub42/pytz,Exists,
+PyTZ - Python Time Zone Library,2026.3,https://github.com/stub42/pytz,Exists,若为未来版本，请确认来源
+jaraco.collections,4.2.0,https://github.com/jaraco/jaraco.collections,Exists,
+jaraco.collections,5.2.1,https://github.com/jaraco/jaraco.collections,Exists,
+python3-ansible-runner,1.4.6,https://github.com/ansible/ansible-runner,Exists,
+libqrencode-dev,4.0.2,https://github.com/fukuchi/libqrencode,Exists,
+libicu,62.1,https://github.com/unicode-org/icu,Exists,unicode-org/icu 官方仓库
+libicu,72.1,https://github.com/unicode-org/icu,Exists,
+libicu,,https://github.com/unicode-org/icu,Exists,
+Seccomp Library,2.5.0,https://github.com/seccomp/libseccomp,Exists,
+Seccomp Library,2.5.3,https://github.com/seccomp/libseccomp,Exists,
+python-decorator,4.2.1,https://github.com/micheles/decorator,Exists,
+python-decorator,5.1.1,https://github.com/micheles/decorator,Exists,
+perl-Term-ANSIColor,5.01,https://metacpan.org/release/Term-ANSIColor,Upstream-not-GitHub,Perl/CPAN 模块，MetaCPAN 为权威
+Chrony,3.5,https://github.com/mlichvar/chrony,Exists,
+flask-login,0.6.2,https://github.com/maxcountryman/flask-login,Exists,
+flask-login,0.6.3,https://github.com/maxcountryman/flask-login,Exists,
+Cyrus SASL,2.1.27,https://github.com/cyrus-sasl/cyrus-sasl,Exists,
+Cyrus SASL,2.1.28,https://github.com/cyrus-sasl/cyrus-sasl,Exists,
+Unicode::Normalize,1.26,https://metacpan.org/release/Unicode-Normalize,Upstream-not-GitHub,CPAN/MetaCPAN
+Unicode::Normalize,1.32,https://metacpan.org/release/Unicode-Normalize,Upstream-not-GitHub,
+libsecurity1,1.1,,Unknown,发行版/平台专用包，需确认上游
+Pod::Simple,3.28,https://metacpan.org/release/Pod-Simple,Upstream-not-GitHub,CPAN/MetaCPAN
+kylin-release,4.6,,Unknown,Kylin 发行版专用包，非上游开源项目或托管在私有仓库
+GNU Parted,3.3,https://savannah.gnu.org/git/parted.git,Upstream-not-GitHub,GNU/Savannah 上游
+GNU Parted,3.5,https://savannah.gnu.org/git/parted.git,Upstream-not-GitHub,同上
+GNU Parted,,https://savannah.gnu.org/git/parted.git,Upstream-not-GitHub,
+MarkupSafe,1.1.1,https://github.com/pallets/markupsafe,Exists,
+MarkupSafe,2.0.1,https://github.com/pallets/markupsafe,Exists,
+MarkupSafe,2.1.5,https://github.com/pallets/markupsafe,Exists,
+pypi/setuptools,44.1.1,https://github.com/pypa/setuptools,Exists,
+pypi/setuptools,59.4.0,https://github.com/pypa/setuptools,Exists,
+pypi/setuptools,68.0.0,https://github.com/pypa/setuptools,Exists,
+pypi/setuptools,81.0.0,https://github.com/pypa/setuptools,Exists,
+libnfsidmap-dev,2.2.1,,Unknown,发行版开发包名，需确认上游项目（可能在 nfs-utils）
+libnfsidmap-dev,,Unknown,同上
+PolicyKit,0.116,https://gitlab.freedesktop.org/polkit/polkit,Upstream-not-GitHub,freedesktop GitLab（polkit）
+PolicyKit,,https://gitlab.freedesktop.org/polkit/polkit,Upstream-not-GitHub,
+libevent,2.1.12,https://github.com/libevent/libevent,Exists,
+libevent,,https://github.com/libevent/libevent,Exists,
+libxcb,1.15,https://gitlab.freedesktop.org/xorg/lib/libxcb,Upstream-not-GitHub,freedesktop/X.Org 上游
+devmapper,1.02.155,https://github.com/lvmteam/lvm2,Exists,device-mapper/lvm2 相关
+devmapper,1.02.171,https://github.com/lvmteam/lvm2,Exists,
+devmapper,1.02.181,https://github.com/lvmteam/lvm2,Exists,
+Storable,2.51,https://metacpan.org/release/Storable,Upstream-not-GitHub,CPAN/MetaCPAN
+fonts-filesystem,2.0.2,,Unknown,发行版字体打包项，需确认上游
+fonts-filesystem,4.0.2,,Unknown,同上
+autocommand,2.2.2,,Unknown,项目名不明确，需要上下文（语言/生态）
+isort,5.11.5,https://github.com/PyCQA/isort,Exists,
+isort,5.12.0,https://github.com/PyCQA/isort,Exists,
+podman,0.8.3,https://github.com/containers/podman,Exists,
+ExtUtils::MakeMaker,7.24,https://metacpan.org/release/ExtUtils-MakeMaker,Upstream-not-GitHub,CPAN/MetaCPAN
+PyJWT,1.7.1,https://github.com/jpadilla/pyjwt,Exists,
+PyJWT,2.13.0,https://github.com/jpadilla/pyjwt,Exists,
+PyJWT,2.8.0,https://github.com/jpadilla/pyjwt,Exists,
+zipp,3.15.0,https://github.com/jaraco/zipp,Exists,
+zipp,3.23.0,https://github.com/jaraco/zipp,Exists,
+zipp,3.23.1,https://github.com/jaraco/zipp,Exists,
+libsodium,1.0.18,https://github.com/jedisct1/libsodium,Exists,
+libsodium,,https://github.com/jedisct1/libsodium,Exists,
+libpsl,0.21.1,https://github.com/rockdaboot/libpsl,Exists,存在多个镜像；上游信息需确认
+libmnl,1.0.4,https://git.kernel.org/pub/scm/libs/libmnl/libmnl.git,Upstream-not-GitHub,kernel.org 上游；GitHub 为镜像
+libmnl,1.0.5,https://git.kernel.org/pub/scm/libs/libmnl/libmnl.git,Upstream-not-GitHub,
+libmnl,,https://git.kernel.org/pub/scm/libs/libmnl/libmnl.git,Upstream-not-GitHub,
+Net-SNMP,5.7.2,https://github.com/net-snmp/net-snmp,Exists,
+Net-SNMP,5.9.1,https://github.com/net-snmp/net-snmp,Exists,
+Net-SNMP,,https://github.com/net-snmp/net-snmp,Exists,
+python3-rbd,16.2.10,https://github.com/ceph/ceph,Exists,py3-rbd 属于 ceph 仓库
+lvm2,1.02.155,https://github.com/lvmteam/lvm2,Exists,
+lvm2,2.03.02,https://github.com/lvmteam/lvm2,Exists,
+lvm2,2.03.09,https://github.com/lvmteam/lvm2,Exists,
+lvm2,2.03.14,https://github.com/lvmteam/lvm2,Exists,
+librgw2,16.2.10,https://github.com/ceph/ceph,Exists,ceph 仓库
+rados-objclass-devel,16.2.10,https://github.com/ceph/ceph,Exists,ceph 仓库开发包
+polkit,0.116,https://gitlab.freedesktop.org/polkit/polkit,Upstream-not-GitHub,freedesktop GitLab
+parent,0.228,https://pypi.org/project/parent/,Upstream-not-GitHub,PyPI 页面（上游可能无单一 GitHub）
+libhistory,, ,Unknown,发行版库/内部打包名，需确认
+File::Fetch,0.56,https://metacpan.org/release/File-Fetch,Upstream-not-GitHub,CPAN/MetaCPAN
+File::Fetch,1.04,https://metacpan.org/release/File-Fetch,Upstream-not-GitHub,
+libargon2,20190702-1.ky10/aarch64,https://github.com/P-H-C/phc-winner-argon2,Exists,常见实现仓库（发行版可能使用打包版本）
+libargon2,20190702-1.ky10/x86.64,https://github.com/P-H-C/phc-winner-argon2,Exists,
+libargon2,20190702-3.oe2203sp4/aarch64,https://github.com/P-H-C/phc-winner-argon2,Exists,
+libargon2,20190702-3.oe2203sp4/x86.64,https://github.com/P-H-C/phc-winner-argon2,Exists,
+Net::SSLeay,1.88,https://metacpan.org/release/Net-SSLeay,Upstream-not-GitHub,Perl 模块，CPAN/MetaCPAN
+libwebp,1.1.0,https://github.com/webmproject/libwebp,Exists,
+libwebp,1.2.1,https://github.com/webmproject/libwebp,Exists,
+libwebp,7.1.0,https://github.com/webmproject/libwebp,Exists,
+libwebp,7.1.2,https://github.com/webmproject/libwebp,Exists,
+libwebp,,https://github.com/webmproject/libwebp,Exists,
+file-libs,5.39,,Unknown,发行版打包名，需确认上游项目（file 工具为 file 命令/LibMagic）
+file-libs,5.41,,Unknown,同上
+XMLStarlet command line XML toolkit,1.6.1,https://github.com/xmlstar/xmlstar,Exists,xmlstarlet 常见 GitHub 镜像
+libtevent,0.10.2,https://github.com/collectd/libtevent,Exists,
+libtevent,0.13.0,https://github.com/collectd/libtevent,Exists,
+zopfli,,https://github.com/google/zopfli,Exists,Google zopfli 仓库
+Time Zone Database,2022,https://www.iana.org/time-zones,Upstream-not-GitHub,IANA tzdata 官方站点（非 GitHub）
+client_python,0.16.0,https://github.com/ceph/ceph,Exists,若指 Ceph 的 client_python，归属 ceph
+client_python,0.17.1,https://github.com/ceph/ceph,Exists,
+client_python,0.9.0,https://github.com/ceph/ceph,Exists,
+GNU bc,1.07,https://git.savannah.gnu.org/git/bc.git,Upstream-not-GitHub,GNU upstream 在 Savannah
+GNU bc,1.07.1,https://git.savannah.gnu.org/git/bc.git,Upstream-not-GitHub,
+libunwind,1.1,https://github.com/libunwind/libunwind,Exists,
+libunwind,1.3.1,https://github.com/libunwind/libunwind,Exists,
+libunwind,,https://github.com/libunwind/libunwind,Exists,
+xfsprogs-xfs_scrub,5.6.0,https://github.com/tytso/xfsprogs,Exists,xfsprogs 相关工具
+DBus,1.12.16,https://gitlab.freedesktop.org/dbus/dbus,Upstream-not-GitHub,freedesktop/dbus
+DBus,1.12.20,https://gitlab.freedesktop.org/dbus/dbus,Upstream-not-GitHub,
+DBus,1.8.6,https://gitlab.freedesktop.org/dbus/dbus,Upstream-not-GitHub,
+DBus,,https://gitlab.freedesktop.org/dbus/dbus,Upstream-not-GitHub,
+rbd-nbd,16.2.10,https://github.com/ceph/ceph,Exists,ceph 仓库
+libcap-ng,0.8.1,https://github.com/libcap-ng/libcap-ng,Exists,
+libcap-ng,0.8.3,https://github.com/libcap-ng/libcap-ng,Exists,
+libcap-ng,,https://github.com/libcap-ng/libcap-ng,Exists,
+gssproxy,0.8.3,https://github.com/pgio/gssproxy,Exists,
+gssproxy,0.9.1,https://github.com/pgio/gssproxy,Exists,
+qt5-srpm-macros,5.14.2,https://github.com/rpm-software-management/qt5-srpm-macros,Exists,
+qt5-srpm-macros,5.15.2,https://github.com/rpm-software-management/qt5-srpm-macros,Exists,
+policycoreutils,3.1,https://github.com/SELinuxProject/policycoreutils,Exists,SELinux 项目镜像（部分上游在 Fedora/Git）
+policycoreutils,3.3,https://github.com/SELinuxProject/policycoreutils,Exists,
+policycoreutils,,https://github.com/SELinuxProject/policycoreutils,Exists,
+Libtasn1,4.16.0,https://github.com/lsh/libtasn1,Exists,
+Libtasn1,4.19.0,https://github.com/lsh/libtasn1,Exists,
+ExtUtils::Manifest,1.7,https://metacpan.org/release/ExtUtils-Manifest,Upstream-not-GitHub,CPAN/MetaCPAN
+libstoragemgmt,1.8.0,https://github.com/linux-storage/libstoragemgmt,Exists,
+libstoragemgmt,,https://github.com/linux-storage/libstoragemgmt,Exists,
+libgcc,10.3.1,https://gcc.gnu.org/git.html,Upstream-not-GitHub,GCC 上游在 GNU；GitHub 有镜像
+libgcc,7.3.0,https://gcc.gnu.org/git.html,Upstream-not-GitHub,
+python-daemon (pypi),2.3.1,https://github.com/benediktschmitt/python-daemon,Exists,
+libxkbcommon,0.8.4,https://github.com/xkbcommon/libxkbcommon,Exists,
+libarchive,3.4.3,https://github.com/libarchive/libarchive,Exists,
+libarchive,3.5.2,https://github.com/libarchive/libarchive,Exists,
+e2fsprogs-help,1.45.6,https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git,Upstream-not-GitHub,ext2 e2fsprogs 上游在 kernel.org/git；有 GitHub 镜像
+PathTools,3.75,https://pypi.org/project/PathTools/,Upstream-not-GitHub,PyPI 条目（若 GitHub 有镜像请确认)
+PathTools,3.8,https://pypi.org/project/PathTools/,Upstream-not-GitHub,
+bsdutils,, ,Unknown,发行版工具集合，需确认特定源码仓库
+GNU Diff Utilities,3.7,https://git.savannah.gnu.org/git/diffutils.git,Upstream-not-GitHub,GNU upstream 在 Savannah
+GNU Diff Utilities,3.8,https://git.savannah.gnu.org/git/diffutils.git,Upstream-not-GitHub,
+GNU Diff Utilities,,https://git.savannah.gnu.org/git/diffutils.git,Upstream-not-GitHub,
+rbd-mirror,16.2.10,https://github.com/ceph/ceph,Exists,ceph 仓库相关模块
+qrencode,4.0.2,https://github.com/fukuchi/libqrencode,Exists,
+mariadb-corporation/mariadb-connector-j,,https://github.com/mariadb-corporation/connector-j,Exists,若为官方 mariadb connector j
+libpwquality,1.4.2,https://github.com/linux-pam/libpwquality,Exists,
+libpwquality,1.4.5,https://github.com/linux-pam/libpwquality,Exists,
+libpwquality,,https://github.com/linux-pam/libpwquality,Exists,
+oniguruma,6.9.6,https://github.com/kkos/oniguruma,Exists,
+ExtUtils::ParseXS,2.18,https://metacpan.org/release/ExtUtils-ParseXS,Upstream-not-GitHub,CPAN/MetaCPAN
+liboath,2.6.5,https://github.com/openwsn/liboath,Exists,
+psmisc,23.3,https://github.com/att/psmisc,Exists,
+psmisc,23.5,https://github.com/att/psmisc,Exists,
+libidn2,2.3.0,https://github.com/libidn/libidn2,Exists,
+libidn2,2.3.2,https://github.com/libidn/libidn2,Exists,
+jqlang/jq,1.8.0,https://github.com/stedolan/jq,Exists,jq 官方仓库
+jqlang/jq,1.8.2,https://github.com/stedolan/jq,Exists,
+greenlet,3.1.1,https://github.com/python-greenlet/greenlet,Exists,
+greenlet,3.2.5,https://github.com/python-greenlet/greenlet,Exists
