@@ -1,0 +1,47 @@
+Component,Version,URL
+fipscheck,1.5.0,https://pagure.io/fipscheck
+FUSE,2.9.9,https://github.com/libfuse/libfuse/releases/tag/fuse-2.9.9
+FUSE,3.10.5,https://github.com/libfuse/libfuse/releases/tag/fuse-3.10.5
+FUSE,3.9.2,https://github.com/libfuse/libfuse/releases/tag/fuse-3.9.2
+libexpat,2.2.9,https://github.com/libexpat/libexpat/releases/tag/R_2_2_9
+libexpat,2.4.1,https://github.com/libexpat/libexpat/releases/tag/R_2_4_1
+soupsieve,2.2,https://pypi.org/project/soupsieve/2.2/
+soupsieve,2.8.4,https://pypi.org/project/soupsieve/2.8.4/
+libfdisk,2.35.2,https://github.com/util-linux/util-linux/tree/v2.35.2
+libfdisk,2.37.2,https://github.com/util-linux/util-linux/tree/v2.37.2
+libfdisk,,https://github.com/util-linux/util-linux
+crypto-policies,20200619-1.git781bbd4.ky10/noarch,https://gitlab.com/redhat-crypto/fedora-crypto-policies
+crypto-policies,20200619-3.git781bbd4.oe2203sp4/noarch,https://gitlab.com/redhat-crypto/fedora-crypto-policies
+Bzip2,1.0.8,https://www.sourceware.org/bzip2/
+Docutils,0.17.1,https://pypi.org/project/docutils/0.17.1/
+github.com/containernetworking/cni,0.8.6,https://github.com/containernetworking/cni/releases/tag/v0.8.6
+perl-pod-parser,1.63,https://metacpan.org/release/Pod-Parser
+kylin-gpg-keys,1,https://www.kylinos.cn/
+GNU troff,1.22.4,https://www.gnu.org/software/groff/
+PyYAML,5.3.1,https://pypi.org/project/PyYAML/5.3.1/
+PyYAML,6,https://pypi.org/project/PyYAML/6.0/
+PyYAML,6.0.1,https://pypi.org/project/PyYAML/6.0.1/
+PyYAML,,https://pypi.org/project/PyYAML/
+python3-ptyprocess,0.5.2,https://pypi.org/project/ptyprocess/0.5.2/
+python/importlib_metadata,6.7.0,https://pypi.org/project/importlib-metadata/6.7.0/
+python/importlib_metadata,8.7.1,https://pypi.org/project/importlib-metadata/8.7.1/
+libxls,1.6.2,https://github.com/libxls/libxls/releases/tag/1.6.2
+I2C and LM Sensors,3.6.0,https://github.com/lm-sensors/lm-sensors
+node-iproute,5.5.0,https://www.npmjs.com/package/node-iproute
+lm_sensors-help,3.6.0,https://github.com/lm-sensors/lm-sensors
+python3-charset-normalizer,2.0.12,https://pypi.org/project/charset-normalizer/2.0.12/
+Pyparsing,2.4.7,https://pypi.org/project/pyparsing/2.4.7/
+Pyparsing,3.0.6,https://pypi.org/project/pyparsing/3.0.6/
+perl-Text-Tabs+Wrap,2013.0523,https://metacpan.org/release/Text-Tabs+Wrap
+perl-Text-Tabs+Wrap,2021.0814,https://metacpan.org/release/Text-Tabs+Wrap
+texinfo - GNU documentation system,6.7,https://www.gnu.org/software/texinfo/
+texinfo - GNU documentation system,6.8,https://www.gnu.org/software/texinfo/
+python-pip-wheel,20.2.2,https://pypi.org/project/pip/20.2.2/
+python-pip-wheel,21.3.1,https://pypi.org/project/pip/21.3.1/
+pycodestyle,2.10.0,https://pypi.org/project/pycodestyle/2.10.0/
+SciPy: Scientific Library for Python,1.2.2,https://pypi.org/project/scipy/1.2.2/
+GNU libsigsegv,2.12,https://www.gnu.org/software/libsigsegv/
+Module::Load::Conditional,0.72,https://metacpan.org/release/Module-Load-Conditional
+Module::Load::Conditional,0.74,https://metacpan.org/release/Module-Load-Conditional
+
+# NOTE: This file contains the initial resolved rows (38 entries) from the provided SBOM. I will continue resolving the remaining entries in sub-batches and update this file until complete. Rules: prefer official website or official package source; if unavailable, use GitHub; for GitHub projects with releases/tags, link to the per-version release/tag page when found.
