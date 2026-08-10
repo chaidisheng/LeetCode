@@ -1,3 +1,16 @@
 Component,Version,URL
-PROCESSING,Batch3 sub-batch 1 started,2026-08-10T11:40:00Z
-NOTE: I will resolve entries in sub-batches (~200 rows). This commit marks the start of sub-batch 1. I'll replace this placeholder with resolved Component,Version,URL rows after finishing sub-batch 1.
+fipscheck,1.5.0,https://pagure.io/fipscheck
+FUSE,2.9.9,https://github.com/libfuse/libfuse/releases/tag/fuse-2.9.9
+FUSE,3.10.5,https://github.com/libfuse/libfuse/releases/tag/fuse-3.10.5
+FUSE,3.9.2,https://github.com/libfuse/libfuse/releases/tag/fuse-3.9.2
+libexpat,2.2.9,https://github.com/libexpat/libexpat/releases/tag/R_2_2_9
+libexpat,2.4.1,https://github.com/libexpat/libexpat/releases/tag/R_2_4_1
+soupsieve,2.2,https://pypi.org/project/soupsieve/2.2/
+soupsieve,2.8.4,https://pypi.org/project/soupsieve/2.8.4/
+libfdisk,2.35.2,https://github.com/util-linux/util-linux/tree/v2.35.2
+libfdisk,2.37.2,https://github.com/util-linux/util-linux/tree/v2.37.2
+libfdisk,,https://github.com/util-linux/util-linux
+crypto-policies,20200619-1.git781bbd4.ky10/noarch,https://gitlab.com/redhat-crypto/fedora-crypto-policies
+
+# Note: This file is being populated in sub-batches. Rows above are from sub-batch 1 (first 12 resolved entries).
+# Rule: prefer official website or official package source; if unavailable, use GitHub. For GitHub-hosted projects with releases/tags, per-version release/tag links are used.
