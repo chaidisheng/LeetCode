@@ -1,0 +1,3 @@
+Component,Version,URL
+PROCESSING,Batch3 generation started,2026-08-10T11:20:00Z
+NOTE,I will replace this placeholder with full Component,Version,URL rows as I finish each sub-batch. Rules: prefer official website or official package source (PyPI/CPAN/GNU/etc.), otherwise use GitHub; where a GitHub project has releases/tags, link per-version to the corresponding release/tag.
