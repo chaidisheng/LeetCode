@@ -1,0 +1,461 @@
+Component,Version,URL
+OpenSSL,3.6.0,https://github.com/openssl/openssl/releases/tag/openssl-3.6.0
+ceph,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+ceph-osd,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+ASN.1 library for Python,0.3.7,https://pypi.org/project/pyasn1/0.3.7/
+ASN.1 library for Python,0.4.8,https://pypi.org/project/pyasn1/0.4.8/
+more-itertools,10.8.0,https://pypi.org/project/more-itertools/10.8.0/
+more-itertools,9.1.0,https://pypi.org/project/more-itertools/9.1.0/
+libnfnetlink,1.0.1,https://netfilter.org/projects/libnfnetlink/index.html
+libnfnetlink,,https://netfilter.org/projects/libnfnetlink/index.html
+elfutils-extra,0.18,https://sourceware.org/elfutils/
+Heimdal Kerberos,,https://www.h5l.org/heimdal/
+filesystem,3.14,https://src.fedoraproject.org/rpms/filesystem
+filesystem,3.16,https://src.fedoraproject.org/rpms/filesystem
+python-lz4,1.9.2,https://pypi.org/project/python-lz4/1.9.2/
+python-lz4,1.9.3,https://pypi.org/project/python-lz4/1.9.3/
+ostree,2020.4,https://github.com/ostreedev/ostree/releases/tag/2020.4
+libtirpc,1.2.6,https://sourceforge.net/projects/libtirpc/files/libtirpc/1.2.6/
+libtirpc,1.3.2,https://sourceforge.net/projects/libtirpc/files/libtirpc/1.3.2/
+libtirpc,,https://sourceforge.net/projects/libtirpc/
+GNU Binutils,2.34,https://sourceware.org/binutils/
+GNU Binutils,2.37,https://sourceware.org/binutils/
+chkconfig,1.14,https://sourceforge.net/projects/chkconfig/files/chkconfig/1.14/
+chkconfig,1.21,https://sourceforge.net/projects/chkconfig/files/chkconfig/1.21/
+cracklib,2.9.0,https://sourceforge.net/projects/cracklib/files/cracklib/2.9.0/
+cracklib,2.9.8,https://sourceforge.net/projects/cracklib/files/cracklib/2.9.8/
+OpenPrinting/cups,1.7.5,https://github.com/OpenPrinting/cups/releases/tag/cups-1.7.5
+python3-rados,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+asn1crypto,1.4.0,https://pypi.org/project/asn1crypto/1.4.0/
+asn1crypto,1.5.1,https://pypi.org/project/asn1crypto/1.5.1/
+p11-kit-trust,0.23.20,https://p11-glue.github.io/p11-kit/
+RocksDB,,https://github.com/facebook/rocksdb
+efi-filesystem,4-4.p01.ky10/noarch,https://example.com/efi-filesystem
+XFS Filesystem,5.6.0,https://git.kernel.org/pub/scm/fs/xfs/xfsprogs/xfsprogs.git
+Filter,1.54,https://www.gnu.org/software/grep/ (Filter ambiguous)
+which,2.21,https://sourceforge.net/projects/which/
+mailcap,2.1.53,https://packages.debian.org/source/mailcap
+avahi,0.8,https://www.avahi.org/
+avahi,,https://www.avahi.org/
+Linux DiskQuota,4.05,https://github.com/linux-mm/ (DiskQuota distributions)
+Linux DiskQuota,4.06,https://github.com/linux-mm/
+crontabs,1.11,https://manpages.debian.org/unstable/cron/crontab.5.en.html
+Term Cap,1.17,https://invisible-island.net/ncurses/terminfo.html
+Term Cap,1.18,https://invisible-island.net/ncurses/terminfo.html
+zip,3,https://infozip.sourceforge.net/Zip.html
+pyca/pynacl,1.2.1,https://github.com/pyca/pynacl/releases/tag/1.2.1
+pyca/pynacl,1.5.0,https://github.com/pyca/pynacl/releases/tag/1.5.0
+perl-Digest-SHA,5.93,https://metacpan.org/release/Digest-SHA-5.93
+libp11,0.4.10,https://github.com/OpenSC/libp11/releases/tag/0.4.10
+libp11,,https://github.com/OpenSC/libp11
+libnftnl-libs,1.1.7,https://netfilter.org/projects/libnftnl/
+libnftnl-libs,1.2.0,https://netfilter.org/projects/libnftnl/
+libnftnl-libs,,https://netfilter.org/projects/libnftnl/
+mailx,12.5,https://heirloom.sourceforge.net/mailx.html
+perl-CPAN-Meta-YAML,0.018,https://metacpan.org/release/CPAN-Meta-YAML-0.018
+GLib,2.3.2,https://download.gnome.org/sources/glib/2.3/
+GLib,2.3.3,https://download.gnome.org/sources/glib/2.3/
+GLib,2.66.8,https://download.gnome.org/sources/glib/2.66/
+GLib,2.72.2,https://download.gnome.org/sources/glib/2.72/
+GLib,,https://www.gtk.org/
+libnghttp2,1.41.0,https://github.com/nghttp2/nghttp2/releases/tag/v1.41.0
+libnghttp2,1.46.0,https://github.com/nghttp2/nghttp2/releases/tag/v1.46.0
+colorama,0.4.4,https://pypi.org/project/colorama/0.4.4/
+libxml2,1.1.37,https://xmlsoft.org/
+libxml2,2.9.10,https://xmlsoft.org/
+libxml2,2.9.14,https://xmlsoft.org/
+libxml2,,https://xmlsoft.org/
+lttng-ust,2.10.1,https://lttng.org/
+ceph-mon,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+py-lmdb,0.9.24,https://pypi.org/project/lmdb/0.9.24/
+libXau,1.0.10,https://www.x.org/releases/individual/lib/libXau-1.0.10.tar.gz
+libXau,,https://www.x.org/
+Pod::Escapes,1.04,https://metacpan.org/release/Pod-Escapes-1.04
+chardet,3.0.4,https://pypi.org/project/chardet/3.0.4/
+chardet,5.0.0,https://pypi.org/project/chardet/5.0.0/
+chardet,5.1.0,https://pypi.org/project/chardet/5.1.0/
+chardet,5.2.0,https://pypi.org/project/chardet/5.2.0/
+Python tzdata,2021e-1.p04.ky10/noarch,https://www.iana.org/time-zones
+python-ipy,1,https://pypi.org/project/ipy/1/
+python-ipy,1.01,https://pypi.org/project/ipy/1.01/
+python3-pytz,2020.1,https://pypi.org/project/pytz/2020.1/
+PyTZ - Python Time Zone Library,2021.3,https://pypi.org/project/pytz/2021.3/
+PyTZ - Python Time Zone Library,2023.3,https://pypi.org/project/pytz/2023.3/
+PyTZ - Python Time Zone Library,2026.3,https://pypi.org/project/pytz/2026.3/
+jaraco.collections,4.2.0,https://pypi.org/project/jaraco.collections/4.2.0/
+jaraco.collections,5.2.1,https://pypi.org/project/jaraco.collections/5.2.1/
+python3-ansible-runner,1.4.6,https://github.com/ansible/ansible-runner/releases/tag/v1.4.6
+libqrencode-dev,4.0.2,https://fukuchi.org/works/qrencode/
+libicu,62.1,https://icu.unicode.org/
+libicu,72.1,https://icu.unicode.org/
+libicu,,https://icu.unicode.org/
+Seccomp Library,2.5.0,https://github.com/seccomp/libseccomp/releases/tag/v2.5.0
+Seccomp Library,2.5.3,https://github.com/seccomp/libseccomp/releases/tag/v2.5.3
+python-decorator,4.2.1,https://pypi.org/project/decorator/4.2.1/
+python-decorator,5.1.1,https://pypi.org/project/decorator/5.1.1/
+perl-Term-ANSIColor,5.01,https://metacpan.org/release/Term-ANSIColor-5.01
+Chrony,3.5,https://chrony.tuxfamily.org/
+flask-login,0.6.2,https://pypi.org/project/Flask-Login/0.6.2/
+flask-login,0.6.3,https://pypi.org/project/Flask-Login/0.6.3/
+Cyrus SASL,2.1.27,https://github.com/cyrusimap/cyrus-sasl/releases/tag/cyrus-sasl-2.1.27
+Cyrus SASL,2.1.28,https://github.com/cyrusimap/cyrus-sasl/releases/tag/cyrus-sasl-2.1.28
+Unicode::Normalize,1.26,https://metacpan.org/release/Unicode-Normalize-1.26
+Unicode::Normalize,1.32,https://metacpan.org/release/Unicode-Normalize-1.32
+libsecurity1,1.1,https://example.com/libsecurity1
+Pod::Simple,3.28,https://metacpan.org/release/Pod-Simple-3.28
+kylin-release,4.6,https://kylin-linux.org/
+GNU Parted,3.3,https://www.gnu.org/software/parted/
+GNU Parted,3.5,https://www.gnu.org/software/parted/
+GNU Parted,,https://www.gnu.org/software/parted/
+MarkupSafe,1.1.1,https://pypi.org/project/MarkupSafe/1.1.1/
+MarkupSafe,2.0.1,https://pypi.org/project/MarkupSafe/2.0.1/
+MarkupSafe,2.1.5,https://pypi.org/project/MarkupSafe/2.1.5/
+pypi/setuptools,44.1.1,https://pypi.org/project/setuptools/44.1.1/
+pypi/setuptools,59.4.0,https://pypi.org/project/setuptools/59.4.0/
+pypi/setuptools,68.0.0,https://pypi.org/project/setuptools/68.0.0/
+pypi/setuptools,81.0.0,https://pypi.org/project/setuptools/81.0.0/
+libnfsidmap-dev,2.2.1,https://sourceforge.net/projects/libnfsidmap/files/
+libnfsidmap-dev,,https://sourceforge.net/projects/libnfsidmap/
+PolicyKit,0.116,https://www.freedesktop.org/software/polkit/
+PolicyKit,,https://www.freedesktop.org/software/polkit/
+libevent,2.1.12,https://github.com/libevent/libevent/releases/tag/release-2.1.12-stable
+libevent,,https://github.com/libevent/libevent
+libxcb,1.15,https://xcb.freedesktop.org/
+devmapper,1.02.155,https://sourceware.org/lvm2/
+devmapper,1.02.171,https://sourceware.org/lvm2/
+devmapper,1.02.181,https://sourceware.org/lvm2/
+Storable,2.51,https://metacpan.org/release/Storable-2.51
+fonts-filesystem,2.0.2,https://example.com/fonts-filesystem
+fonts-filesystem,4.0.2,https://example.com/fonts-filesystem
+autocommand,2.2.2,https://pypi.org/project/autocommand/2.2.2/
+isort,5.11.5,https://pypi.org/project/isort/5.11.5/
+isort,5.12.0,https://pypi.org/project/isort/5.12.0/
+podman,0.8.3,https://github.com/containers/podman/releases/tag/v0.8.3
+ExtUtils::MakeMaker,7.24,https://metacpan.org/release/ExtUtils-MakeMaker-7.24
+PyJWT,1.7.1,https://pypi.org/project/PyJWT/1.7.1/
+PyJWT,2.13.0,https://pypi.org/project/PyJWT/2.13.0/
+PyJWT,2.8.0,https://pypi.org/project/PyJWT/2.8.0/
+zipp,3.15.0,https://pypi.org/project/zipp/3.15.0/
+zipp,3.23.0,https://pypi.org/project/zipp/3.23.0/
+zipp,3.23.1,https://pypi.org/project/zipp/3.23.1/
+libsodium,1.0.18,https://download.libsodium.org/libsodium/releases/OLD/
+libsodium,,https://download.libsodium.org/libsodium/
+libpsl,0.21.1,https://github.com/rockdaboot/libpsl/releases/tag/0.21.1
+libmnl,1.0.4,https://netfilter.org/projects/libmnl/
+libmnl,1.0.5,https://netfilter.org/projects/libmnl/
+libmnl,,https://netfilter.org/projects/libmnl/
+Net-SNMP,5.7.2,https://www.net-snmp.org/
+Net-SNMP,5.9.1,https://www.net-snmp.org/
+Net-SNMP,,https://www.net-snmp.org/
+python3-rbd,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+lvm2,1.02.155,https://sourceforge.net/projects/lvm2/files/
+lvm2,2.03.02,https://sourceforge.net/projects/lvm2/files/
+lvm2,2.03.09,https://sourceforge.net/projects/lvm2/files/
+lvm2,2.03.14,https://sourceforge.net/projects/lvm2/files/
+librgw2,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+rados-objclass-devel,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+polkit,0.116,https://www.freedesktop.org/software/polkit/
+parent,0.228,https://pypi.org/project/parent/0.228/
+libhistory,,https://sourceforge.net/projects/libhistory/
+File::Fetch,0.56,https://metacpan.org/release/File-Fetch-0.56
+File::Fetch,1.04,https://metacpan.org/release/File-Fetch-1.04
+libargon2,20190702-1.ky10/aarch64,https://github.com/P-H-C/phc-winner-argon2
+libargon2,20190702-1.ky10/x86.64,https://github.com/P-H-C/phc-winner-argon2
+libargon2,20190702-3.oe2203sp4/aarch64,https://github.com/P-H-C/phc-winner-argon2
+libargon2,20190702-3.oe2203sp4/x86.64,https://github.com/P-H-C/phc-winner-argon2
+Net::SSLeay,1.88,https://metacpan.org/release/Net-SSLeay-1.88
+libwebp,1.1.0,https://developers.google.com/speed/webp/download
+libwebp,1.2.1,https://developers.google.com/speed/webp/download
+libwebp,7.1.0,https://developers.google.com/speed/webp/download
+libwebp,7.1.2,https://developers.google.com/speed/webp/download
+libwebp,,https://developers.google.com/speed/webp/
+file-libs,5.39,https://example.com/file-libs
+file-libs,5.41,https://example.com/file-libs
+XMLStarlet command line XML toolkit,1.6.1,https://sourceforge.net/projects/xmlstar/
+libtevent,0.10.2,https://github.com/CollecteLocal/libtevent/releases
+libtevent,0.13.0,https://github.com/CollecteLocal/libtevent/releases
+zopfli,,https://github.com/google/zopfli
+Time Zone Database,2022,https://www.iana.org/time-zones
+client_python,0.16.0,https://pypi.org/project/client-python/0.16.0/
+client_python,0.17.1,https://pypi.org/project/client-python/0.17.1/
+client_python,0.9.0,https://pypi.org/project/client-python/0.9.0/
+GNU bc,1.07,https://www.gnu.org/software/bc/
+GNU bc,1.07.1,https://www.gnu.org/software/bc/
+libunwind,1.1,https://www.nongnu.org/libunwind/
+libunwind,1.3.1,https://www.nongnu.org/libunwind/
+libunwind,,https://www.nongnu.org/libunwind/
+xfsprogs-xfs_scrub,5.6.0,https://git.kernel.org/pub/scm/fs/xfs/xfsprogs/xfsprogs.git
+DBus,1.12.16,https://www.freedesktop.org/wiki/Software/dbus/
+DBus,1.12.20,https://www.freedesktop.org/wiki/Software/dbus/
+DBus,1.8.6,https://www.freedesktop.org/wiki/Software/dbus/
+DBus,,https://www.freedesktop.org/wiki/Software/dbus/
+rbd-nbd,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+libcap-ng,0.8.1,https://github.com/lvc/libcap-ng/releases/tag/v0.8.1
+libcap-ng,0.8.3,https://github.com/lvc/libcap-ng/releases/tag/v0.8.3
+libcap-ng,,https://github.com/lvc/libcap-ng/
+gssproxy,0.8.3,https://github.com/davem/sssd-gssproxy/releases
+gssproxy,0.9.1,https://github.com/davem/sssd-gssproxy/releases
+qt5-srpm-macros,5.14.2,https://github.com/rpm-software-management/qt5-srpm-macros
+qt5-srpm-macros,5.15.2,https://github.com/rpm-software-management/qt5-srpm-macros
+policycoreutils,3.1,https://github.com/SELinuxProject/policycoreutils
+policycoreutils,3.3,https://github.com/SELinuxProject/policycoreutils
+policycoreutils,,https://github.com/SELinuxProject/policycoreutils
+Libtasn1,4.16.0,https://www.gnu.org/software/libtasn1/
+Libtasn1,4.19.0,https://www.gnu.org/software/libtasn1/
+ExtUtils::Manifest,1.7,https://metacpan.org/release/ExtUtils-Manifest-1.7
+libstoragemgmt,1.8.0,https://sourceforge.net/projects/libstoragemgmt/
+libstoragemgmt,,https://sourceforge.net/projects/libstoragemgmt/
+libgcc,10.3.1,https://gcc.gnu.org/
+libgcc,7.3.0,https://gcc.gnu.org/
+python-daemon (pypi),2.3.1,https://pypi.org/project/python-daemon/2.3.1/
+libxkbcommon,0.8.4,https://xkbcommon.org/
+libarchive,3.4.3,https://github.com/libarchive/libarchive/releases/tag/v3.4.3
+libarchive,3.5.2,https://github.com/libarchive/libarchive/releases/tag/v3.5.2
+e2fsprogs-help,1.45.6,https://e2fsprogs.sourceforge.net/
+PathTools,3.75,https://pypi.org/project/PathTools/3.75/
+PathTools,3.8,https://pypi.org/project/PathTools/3.8/
+bsdutils,,https://sourceforge.net/projects/bsdutils/
+GNU Diff Utilities,3.7,https://www.gnu.org/software/diffutils/
+GNU Diff Utilities,3.8,https://www.gnu.org/software/diffutils/
+GNU Diff Utilities,,https://www.gnu.org/software/diffutils/
+rbd-mirror,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+qrencode,4.0.2,https://fukuchi.org/works/qrencode/
+mariadb-corporation/mariadb-connector-j,,https://github.com/mariadb-corporation/mariadb-connector-j
+libpwquality,1.4.2,https://github.com/linux-pam/pwquality
+libpwquality,1.4.5,https://github.com/linux-pam/pwquality
+libpwquality,,https://github.com/linux-pam/pwquality
+oniguruma,6.9.6,https://github.com/kkos/oniguruma/releases/tag/v6.9.6
+ExtUtils::ParseXS,2.18,https://metacpan.org/release/ExtUtils-ParseXS-2.18
+liboath,2.6.5,https://github.com/google/liboath
+psmisc,23.3,https://git.kernel.org/pub/scm/utils/psmisc/psmisc.git
+psmisc,23.5,https://git.kernel.org/pub/scm/utils/psmisc/psmisc.git
+libidn2,2.3.0,https://gnutls.org/software/libidn/
+libidn2,2.3.2,https://gnutls.org/software/libidn/
+jqlang/jq,1.8.0,https://github.com/stedolan/jq/releases/tag/jq-1.8
+jqlang/jq,1.8.2,https://github.com/stedolan/jq/releases/tag/jq-1.8.2
+greenlet,3.1.1,https://pypi.org/project/greenlet/3.1.1/
+greenlet,3.2.5,https://pypi.org/project/greenlet/3.2.5/
+Common Unix Printing System (CUPS),2.2.13,https://github.com/OpenPrinting/cups/releases/tag/cups-2.2.13
+GNU GRUB,2.02,https://www.gnu.org/software/grub/
+GNU GRUB,2.04,https://www.gnu.org/software/grub/
+GNU GRUB,,https://www.gnu.org/software/grub/
+pexpect,4.3.1,https://pypi.org/project/pexpect/4.3.1/
+pexpect,4.8.0,https://pypi.org/project/pexpect/4.8.0/
+librgw2-devel,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+keepalived-help,2.0.20,https://www.keepalived.org/
+WebOb,1.8.2,https://pypi.org/project/WebOb/1.8.2/
+WebOb,1.8.7,https://pypi.org/project/WebOb/1.8.7/
+quota,4.01,https://git.savannah.gnu.org/cgit/quota.git/
+Userspace RCU,0.12.1,https://liburcu.org/
+Userspace RCU,0.13.0,https://liburcu.org/
+Userspace RCU,,https://liburcu.org/
+Text::Balanced,2.03,https://metacpan.org/release/Text-Balanced-2.03
+Text::Balanced,2.06,https://metacpan.org/release/Text-Balanced-2.06
+Compress::Raw::Bzip2,2.095,https://metacpan.org/release/Compress-Raw-Bzip2-2.095
+Compress::Raw::Bzip2,2.201,https://metacpan.org/release/Compress-Raw-Bzip2-2.201
+Algorithm::Diff,1.1902,https://metacpan.org/release/Algorithm-Diff-1.1902
+Algorithm::Diff,1.1903,https://metacpan.org/release/Algorithm-Diff-1.1903
+perl-threads,1.92,https://metacpan.org/release/perl-threads-1.92
+perl-threads,2.02,https://metacpan.org/release/perl-threads-2.02
+libbasicobjects,,https://example.com/libbasicobjects
+Mako,1.0.6,https://pypi.org/project/Mako/1.0.6/
+Mako,1.1.4,https://pypi.org/project/Mako/1.1.4/
+Mako,1.2.4,https://pypi.org/project/Mako/1.2.4/
+Mako,1.3.12,https://pypi.org/project/Mako/1.3.12/
+setup,2.13.7,https://example.com/setup
+setup,2.13.9.1,https://example.com/setup
+perl-Text-Diff,1.45,https://metacpan.org/release/Text-Diff-1.45
+libcroco,,https://developer.gnome.org/libcroco/
+libblkid,2.35.2,https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git
+libblkid,2.37.2,https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git
+libblkid,,https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git
+idna,2.1,https://pypi.org/project/idna/2.1/
+idna,3.2,https://pypi.org/project/idna/3.2/
+tomli,2.4.0,https://pypi.org/project/tomli/2.4.0/
+libksba,1.4.0,https://www.gnupg.org/software/ksba/
+Thunderbird,,https://www.thunderbird.net/
+CPAN::Meta::Requirements,2.14,https://metacpan.org/release/CPAN-Meta-Requirements-2.14
+CPAN::Meta::Requirements,2.143,https://metacpan.org/release/CPAN-Meta-Requirements-2.143
+sshpass,1.06,https://sourceforge.net/projects/sshpass/
+sshpass,1.09,https://sourceforge.net/projects/sshpass/
+dracut,7.02,https://github.com/dracutdevs/dracut/releases/tag/7.02
+Test::Harness,2.56,https://metacpan.org/release/Test-Harness-2.56
+Test::Harness,3.38,https://metacpan.org/release/Test-Harness-3.38
+unbound-libs,1.13.2,https://nlnetlabs.nl/projects/unbound/
+libgpg-error,1.38,https://www.gnupg.org/
+libgpg-error,1.46,https://www.gnupg.org/
+requests,2.24.0,https://pypi.org/project/requests/2.24.0/
+requests,2.26.0,https://pypi.org/project/requests/2.26.0/
+libuuid,2.35.2,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+libuuid,2.37.2,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+uuid,,https://en.wikipedia.org/wiki/Universally_unique_identifier
+XCB,1.14,https://xorg.freedesktop.org/
+XCB,,https://xorg.freedesktop.org/
+libslirp,4.7.0,https://gitlab.freedesktop.org/slirp/libslirp
+libnsl,1.3.0,https://sourceforge.net/projects/libnsl/
+libnsl,2.0.0,https://sourceforge.net/projects/libnsl/
+libnsl,2.0.1,https://sourceforge.net/projects/libnsl/
+libnsl,,https://sourceforge.net/projects/libnsl/
+importlib-resources,5.12.0,https://pypi.org/project/importlib-resources/5.12.0/
+libXft,2.3.3,https://www.x.org/
+libXft,,https://www.x.org/
+LAPACK,,https://www.netlib.org/lapack/
+Audit,1.0.0,https://example.com/audit
+Audit,1.5.6,https://example.com/audit
+libcephsqlite,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+os-prober,1.77,https://git.savannah.gnu.org/cgit/os-prober.git/
+hwdata-pnp,0.337,https://github.com/freedesktop/hwdata
+hwdata-pnp,0.353,https://github.com/freedesktop/hwdata
+OpenSSL,1.1.1f,https://www.openssl.org/source/openssl-1.1.1f.tar.gz
+OpenSSL,1.1.1h,https://www.openssl.org/source/openssl-1.1.1h.tar.gz
+OpenSSL,1.1.1m,https://www.openssl.org/source/openssl-1.1.1m.tar.gz
+OpenSSL,1:1.0.1j-1.fc21/armv7hl,https://www.openssl.org/source/
+OpenSSL,,https://www.openssl.org/
+SpiderMonkey,,https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
+waitress,1.4.4,https://pypi.org/project/waitress/1.4.4/
+waitress,2.0.0,https://pypi.org/project/waitress/2.0.0/
+waitress,3.0.2,https://pypi.org/project/waitress/3.0.2/
+mdurl,0.1.2,https://pypi.org/project/mdurl/0.1.2/
+Ruby-GPGME,1.14.0,https://github.com/ruby-gpgme/ruby-gpgme/releases/tag/v1.14.0
+lua,5.3,https://www.lua.org/versions.html
+lua,5.3.5,https://www.lua.org/versions.html
+lua,5.4.3,https://www.lua.org/versions.html
+libtdb-help,1.4.2,https://sourceforge.net/projects/tdb/
+jbigkit-libs,2.1,https://sourceforge.net/projects/jbigkit/
+ceph-mgr-cephadm,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+ruamel.yaml.clib,0.2.8,https://pypi.org/project/ruamel.yaml.clib/0.2.8/
+efi-srpm-macros,4-10.oe2203sp4/noarch,https://example.com/efi-srpm-macros
+efi-srpm-macros,4-4.p01.ky10/noarch,https://example.com/efi-srpm-macros
+util-linux,2.35.2,https://github.com/karelzak/util-linux/releases/tag/v2.35.2
+util-linux,2.37.2,https://github.com/karelzak/util-linux/releases/tag/v2.37.2
+pinentry,1.1.0,https://gnupg.org/software/pinentry/
+ibus-table-chinese,,https://github.com/ibus/ibus-table
+Config::Perl::V,0.31,https://metacpan.org/release/Config-Perl-V-0.31
+Config::Perl::V,0.33,https://metacpan.org/release/Config-Perl-V-0.33
+perl-Math-BigInt-FastCalc,0.5009,https://metacpan.org/release/Math-BigInt-FastCalc-0.5009
+perl-Math-BigInt-FastCalc,0.5012,https://metacpan.org/release/Math-BigInt-FastCalc-0.5012
+IPython,1.26,https://pypi.org/project/ipython/1.26/
+IPython,2.4.0,https://pypi.org/project/ipython/2.4.0/
+IPython,2.6,https://pypi.org/project/ipython/2.6/
+IPython,2.7.18,https://pypi.org/project/ipython/2.7.18/
+IPython,3.8,https://pypi.org/project/ipython/3.8/
+IPython,3.9.9,https://pypi.org/project/ipython/3.9.9/
+IPython,,https://ipython.org/
+dbus-libs,1.8.6,https://www.freedesktop.org/wiki/Software/dbus/
+Jerasure,,https://web.eecs.utk.edu/~jirka/software/jerasure/
+Integrity Measurement Architecture (IMA),1.3.1,https://git.kernel.org/pub/scm/linux/kernel/git/wei/ima.git
+Integrity Measurement Architecture (IMA),1.3.2,https://git.kernel.org/pub/scm/linux/kernel/git/wei/ima.git
+python3-repoze-lru,0.7,https://pypi.org/project/repoze.lru/0.7/
+Flask,0.10.1,https://pypi.org/project/Flask/0.10.1/
+Flask,1.1.2,https://pypi.org/project/Flask/1.1.2/
+Flask,2.1.2,https://pypi.org/project/Flask/2.1.2/
+Flask,2.2.5,https://pypi.org/project/Flask/2.2.5/
+libjpeg,2.0.5,https://libjpeg-turbo.org/
+libjpeg,2.1.1,https://libjpeg-turbo.org/
+libradospp-devel,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+Vim,3,https://www.vim.org/
+Vim,7.4.475,https://www.vim.org/
+ceph-mgr-k8sevents,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+RPCBind,1.2.5,https://github.com/svinota/rpcb/tree/master
+RPCBind,1.2.6,https://github.com/svinota/rpcb/tree/master
+npth,1.6,https://www.nongnu.org/npth/
+audit-libs,1.5.6,https://github.com/linux-audit/audit-libs
+nghttp2,1.41.0,https://github.com/nghttp2/nghttp2/releases/tag/v1.41.0
+nghttp2,1.46.0,https://github.com/nghttp2/nghttp2/releases/tag/v1.46.0
+TPM2.0-TSS,3.1.0,https://github.com/tpm2-software/tpm2-tss/releases/tag/3.1.0
+Babeltrace,1.0.0,https://github.com/efficios/babeltrace/releases/tag/v1.0.0
+Babeltrace,1.5.8,https://github.com/efficios/babeltrace/releases/tag/v1.5.8
+resource-agents,4.2.0,https://github.com/ClusterLabs/resource-agents/releases/tag/v4.2.0
+man-db,2.8.7,https://packages.debian.org/man-db
+man-db,,https://packages.debian.org/man-db
+constant,1.33,https://pypi.org/project/constant/1.33/
+pyOpenSSL,20.0.1,https://pypi.org/project/pyOpenSSL/20.0.1/
+pyOpenSSL,21.0.0,https://pypi.org/project/pyOpenSSL/21.0.0/
+Grubby,8.4,https://github.com/rhboot/grubby
+GMP,6.0.0,https://gmplib.org/
+GMP,6.2.0,https://gmplib.org/
+GMP,6.2.1,https://gmplib.org/
+GMP,,https://gmplib.org/
+Procps,3.3.16,https://gitlab.com/procps-ng/procps
+Procps,4.0.2,https://gitlab.com/procps-ng/procps
+Procps,,https://gitlab.com/procps-ng/procps
+libsigsegv,2.14,https://www.gnu.org/software/libsigsegv/
+WebTest,2.0.30,https://pypi.org/project/WebTest/2.0.30/
+WebTest,3.0.0,https://pypi.org/project/WebTest/3.0.0/
+WebTest,3.0.7,https://pypi.org/project/WebTest/3.0.7/
+Tcl/Tk,4,https://www.tcl-lang.org/
+Tcl/Tk,8.6.10,https://www.tcl-lang.org/
+Tcl/Tk,8.6.12,https://www.tcl-lang.org/
+python3-cephfs,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+libsecret,0.20.3,https://wiki.gnome.org/Projects/Libsecret
+python3-cryptography,36.0.1,https://pypi.org/project/cryptography/36.0.1/
+XZ Utils,5.2.5,https://tukaani.org/xz/
+python3-tempita,0.5.1,https://pypi.org/project/tempita/0.5.1/
+Locale::Maketext,1.25,https://metacpan.org/release/Locale-Maketext-1.25
+libffi,3.3,https://sourceware.org/libffi/
+libffi,3.4.2,https://sourceware.org/libffi/
+libffi,,https://sourceware.org/libffi/
+tk,8.6.3,https://www.tcl.tk/
+Puppet Beaker,1.10.0,https://github.com/puppetlabs/beaker/releases/tag/v1.10.0
+DevelPPPort,3.58,https://metacpan.org/release/Devel-PPPort-3.58
+DevelPPPort,3.63,https://metacpan.org/release/Devel-PPPort-3.63
+paramiko,2.11.0,https://pypi.org/project/paramiko/2.11.0/
+paramiko,3.1.0,https://pypi.org/project/paramiko/3.1.0/
+paramiko,3.5.1,https://pypi.org/project/paramiko/3.5.1/
+Jinja,2.11.2,https://pypi.org/project/Jinja2/2.11.2/
+Jinja,3.0.3,https://pypi.org/project/Jinja2/3.0.3/
+Jinja,3.1.6,https://pypi.org/project/Jinja2/3.1.6/
+podlators,4.1,https://pypi.org/project/podlators/4.1/
+libcap,2.32,https://git.kernel.org/pub/scm/linux/kernel/git/shemminger/libcap.git
+libcap,2.61,https://git.kernel.org/pub/scm/linux/kernel/git/shemminger/libcap.git
+libcap,,https://git.kernel.org/pub/scm/linux/kernel/git/shemminger/libcap.git
+shared-mime-info,1.1,https://freedesktop.org/wiki/Software/shared-mime-info/
+shared-mime-info,1.1,https://freedesktop.org/wiki/Software/shared-mime-info/
+lz4,1.9.2,https://github.com/lz4/lz4/releases/tag/v1.9.2
+lz4,1.9.3,https://github.com/lz4/lz4/releases/tag/v1.9.3
+lz4,,https://github.com/lz4/lz4
+kylin-rpm-config,30-18.p07.ky10/aarch64,https://kylin-linux.org/
+kylin-rpm-config,30-18.p07.ky10/x86.64,https://kylin-linux.org/
+cJSON,,https://github.com/DaveGamble/cJSON
+IO::Compress,2.095,https://metacpan.org/release/IO-Compress-2.095
+IO::Compress,2.201,https://metacpan.org/release/IO-Compress-2.201
+python-routes,2.5.1,https://pypi.org/project/routes/2.5.1/
+libkysec-devel,3.3.6,https://example.com/libkysec
+IO::Socket::IP,0.39,https://metacpan.org/release/IO-Socket-IP-0.39
+IO::Socket::IP,0.41,https://metacpan.org/release/IO-Socket-IP-0.41
+python3-rpm-generators,9-1.ky10/noarch,https://example.com/python3-rpm-generators
+sudo,1.9.2,https://www.sudo.ws/
+sudo,1.9.8,https://www.sudo.ws/
+krb5-libs,1.18.2,https://web.mit.edu/kerberos/
+krb5-libs,1.19.2,https://web.mit.edu/kerberos/
+ceph-mgr-modules-core,16.2.10,https://github.com/ceph/ceph/releases/tag/v16.2.10
+markdown-it-py,3.0.0,https://pypi.org/project/markdown-it-py/3.0.0/
+libgomp,10.3.1,https://gcc.gnu.org/
+libgomp,7.3.0,https://gcc.gnu.org/
+jmespath,0.10.0,https://pypi.org/project/jmespath/0.10.0/
+libchkuid,1,https://example.com/libchkuid
+Openwall crypt_blowfish,4.4.16,https://www.openwall.com/crypt/
+Openwall crypt_blowfish,4.4.26,https://www.openwall.com/crypt/
+Openwall crypt_blowfish,,https://www.openwall.com/crypt/
+pylockfile,0.12.2,https://pypi.org/project/pylockfile/0.12.2/
+logutils,0.3.5,https://pypi.org/project/logutils/0.3.5/
+pycparser,2.2,https://pypi.org/project/pycparser/2.2/
+pycparser,2.21,https://pypi.org/project/pycparser/2.21/
+singledispatch,3.4.0.3,https://pypi.org/project/singledispatch/3.4.0.3/
+libtdb,1.4.2,https://www.samba.org/tdb/
+libtdb,1.4.7,https://www.samba.org/tdb/
+iproute-help,5.5.0,https://git.kernel.org/pub/scm/network/iproute2/iproute2.git
+Time::HiRes,1.9726,https://metacpan.org/release/Time-HiRes-1.9726
+Time::HiRes,1.9764,https://metacpan.org/release/Time-HiRes-1.9764
+Security-enhanced Linux,1,https://selinuxproject.org/
+Security-enhanced Linux,3.1,https://selinuxproject.org/
+libsepol,3.1,https://github.com/SELinuxProject/libsepol
+Security-enhanced Linux,3.3,https://selinuxproject.org/
+libsepol,3.3,https://github.com/SELinuxProject/libsepol
+Security-enhanced Linux,,https://selinuxproject.org/
+zlibcontext,1.2.11,https://zlib.net/
+Mozilla::CA,20200520-1.ky10/noarch,https://metacpan.org/release/Mozilla-CA
+slirp4netns,1.2.3,https://github.com/rootless-containers/slirp4netns/releases/tag/v1.2.3
+perl-Params-Check,0.38,https://metacpan.org/release/Params-Check-0.38
+NumPy,1.19.5,https://pypi.org/project/numpy/1.19.5/
+NumPy,1.8.2,https://pypi.org/project/numpy/1.8.2/
